@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/75b20f34-2cf1-48e9-89ab-d5fc799127c4/deploy-status)](https://app.netlify.com/sites/calcforme/deploys)  
 
-Calc For Me is a Small Calculator App. calculates for you the Total Price depending on the Quantity of the Products.  
+Calc For Me is a small calculator application that calculates the total price depending on the quantity of the products. 
 
 
   
